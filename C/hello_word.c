@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> //Ini adalah Header Bahasa C
 
-int main() {
+int main() { //Wajib di dalam int main(){}
+    //Bahasa C sangalah ketat HARAP TELITI
     printf("Hallo Dunia!\n");
     printf("Have a good day!");
     printf("...Ini akan kesamping terus...\n");
